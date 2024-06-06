@@ -1,0 +1,25 @@
+.logo{
+    width: 200px;
+}
+.bannier{
+    background: linear-gradient(rgba(0, 0, 0, 0.175), rgba(0, 0, 0, 0.197)), no-repeat center right / cover url(./images/bg.jpg);
+}
+.nav-link{
+    margin-right: 10px;
+}
+.contact-banner{
+    background: linear-gradient(rgba(0, 0, 0, 0.433), rgba(0, 0, 0, 0.433)), no-repeat center right / cover url(./images/contact-bg.jpg)
+    ;
+    background-attachment: fixed;
+}
+.shop{
+    background:  no-repeat center right / cover url(./images/shop.jpg)
+    ;
+    background-attachment: fixed;
+    min-height: 80vh;
+}
+.product-banner{
+    background: linear-gradient(rgba(0, 0, 0, 0.433), rgba(0, 0, 0, 0.433)), no-repeat center right / cover url(./images/WhatsApp\ Image\ 2023-11-20\ à\ 15.20.54_d2f13394.jpg)
+    ;
+    background-attachment: fixed;
+}
